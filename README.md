@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi there, I'm SHOUVIK DAS<br><br>- 🔭 I’m currently working on an HRMS Backend Project<br>- 🌱 I’m currently learning NEXT JS<br>- 💬 Ask me about backend technologies such as Node.js, PHP<br>- 📫 How to reach me: shouvik8017@gmail.com<br>- 👨‍💻 I'm a software engineer with 6+ years of experience in building scalable <br>         & efficient web applications and APIs. I specialize in PHP and Node.js<br>         and have strong experience in developing modern, high-performance applications.<br>         <br>         I enjoy solving complex technical problems & continuously learning new<br>         technologies to build impactful products.<br> <br> 
+Hi there, I'm SHOUVIK DAS<br><br>- 🔭 I’m currently working on an HRMS Full-Stack Project<br>- 🌱 I’m currently learning NEXT JS<br>- 💬 Ask me about backend technologies such as Node.js, PHP<br>- 📫 How to reach me: shouvik8017@gmail.com<br>- 👨‍💻 I'm a software engineer with 6+ years of experience in building scalable <br>         & efficient web applications and APIs. I specialize in PHP and Node.js<br>         and have strong experience in developing modern, high-performance applications.<br>         <br>         I enjoy solving complex technical problems & continuously learning new<br>         technologies to build impactful products.<br> <br> 
 
 
 ## 🌐 Socials:
